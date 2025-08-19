@@ -34,14 +34,6 @@ My goal is to solve real-world challenges by blending **AI/ML expertise with str
 
 ---
 
-## 📌 Featured Projects  
-🔹 [**Messenger**](https://github.com/Gaana-Shree-S/Messenger) – Chat app with unique message filtering features  
-🔹 [**TRAFFIC_CONTROLLER**](https://github.com/Gaana-Shree-S/TRAFFIC_CONTROLLER) – IoT-based traffic control for emergency vehicles  
-🔹 [**Movie Recommendation System**](https://github.com/Gaana-Shree-S/Movie-recommendation) – ML-based recommender system  
-🔹 [**BMI Calculator**](https://github.com/Gaana-Shree-S/BMI-ratio) – Health-focused BMI analysis project  
-🔹 [**Java Project**](https://github.com/Gaana-Shree-S/java-project) – Core Java concepts in practice  
-
----
 
 ## 📊 GitHub Stats  
 ![Gaana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaana-Shree-S&show_icons=true&theme=tokyonight)  
@@ -51,7 +43,7 @@ My goal is to solve real-world challenges by blending **AI/ML expertise with str
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaana-shree-s/)   
 
 ---
 
