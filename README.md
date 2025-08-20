@@ -81,8 +81,7 @@ Tinkercad | Canva | MIT App Inventor | Hugging Face
 ---
 
 ## 🌐 Connect With Me   
-- 💼 LinkedIn: [linkedin.com/in/gaanashrees](https://www.linkedin.com/in/gaanashrees)  
+-  LinkedIn: [linkedin.com/in/gaanashrees](https://www.linkedin.com/in/gaanashrees)  
+-  Github: [https://leetcode.com/u/fR2XcOqtiq/](https://leetcode.com/u/fR2XcOqtiq/)  
 
 ---
-
-✨ *“Code + Data + Innovation = Real-world Impact”* ✨  
