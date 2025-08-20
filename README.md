@@ -51,7 +51,7 @@ Tinkercad | Canva | MIT App Inventor | Hugging Face
 
 ## 🚀 Projects  
 
-🔹 [**Multilingual Email Classification & PII Masking**](https://github.com/Gaana-Shree-S/Akaike) – NLP + ML + LLM for support email classification & data privacy  
+🔹 [**Multi Email Classification & PII Masking**](https://github.com/Gaana-Shree-S/Akaike) – NLP + ML + LLM for support email classification & data privacy  
 🔹 [**PARTH**](https://github.com/Gaana-Shree-S/PARTH) – IoT-enabled robotic model for assisting paralyzed patients  
 🔹 [**Multiple Key Encryption**](https://github.com/Gaana-Shree-S/Cryptography) – Hybrid quantum-safe file transfer system using **ECDH + NTRU + AES**  
 🔹 [**Speech Recognition & Classification**] – Audio ML project using Librosa, PyDub, TensorFlow, PyTorch  
